@@ -8,7 +8,7 @@ Explore the "Jobs" tab in LinkedIn web application.
 
 ## About LinkedIn Web Application 
 
-### What the LinkedIN Is:
+### What the LinkedIN is:
 
 A LinkedIn is the world's largest professional network on the internet. You can use LinkedIn to find the right job or internship, connect and strengthen professional relationships, and learn the skills you need to succeed in your career.
 
