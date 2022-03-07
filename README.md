@@ -166,10 +166,10 @@ Test Deliverables:  is a list of all the documents, tools and other components t
 	* User can easily search for jobs on LinkedIn from the Jobs homepage.
 	* User can upload his/her resume from the Job Application Settings page by clicking Upload under the Resume section. 
 	* User can easily apply for job on LinkedIn. Based on what the job poster chooses, user'll see an Easy Apply/Apply Now or Apply button.
-	* User be able to reuse uploaded resume for future job applications.
 	* User can Save jobs while browsing job search results on LinkedIn to come back later to apply for them.
-	* User can narrow down his/her job search results using filters, keywords, and advanced search.
 	* User can set up job alerts based on his/her previous job searches, preferences, and specific companies to ensure he/she will regularly receive relevant job notifications.
+	* User can narrow down his/her job search results using filters, keywords, and advanced search.
+	* User be able to reuse uploaded resume for future job applications.
 
 
 
