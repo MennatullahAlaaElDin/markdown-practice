@@ -56,7 +56,7 @@ Jobs feature With following URL :  [Jobs service](https://www.linkedin.com/jobs 
 	* Database Testing
 	* Hardware & any other external interfaces.
 
-### Testing Types:
+### Test Levels:
 
 * Unit Testing: Done by developer.
 * API Testing:
@@ -65,6 +65,7 @@ Jobs feature With following URL :  [Jobs service](https://www.linkedin.com/jobs 
 * Integration Testing:  Done by Testers.
 * System Testing:  Done by Testers and Product owners.
 
+***
 
 ### Risk Analysis and Mitigation:
 
