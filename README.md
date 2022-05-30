@@ -84,7 +84,7 @@ Risk is future’s `uncertain` event with a `probability of occurrence` and a `p
 
 2. Check that the user interface `UI` is displaying as expected and & meet the customer needs.
 
-3. Verify the `usability` of the web aoolication. Are those functionalities convenient for user or not? , user friendly or not?
+3. Verify the `usability` of the web application. Are those functionalities convenient for user or not? , user friendly or not?
 
 ### Test Criteria:
 * Suspension criteria:
